@@ -201,6 +201,24 @@ header{
         flex-wrap: wrap;
     }
 
+     .footer-colm .quote{
+        color: #000;
+        font-size: 12px;
+        font-weight: 900px;
+        text-transform: uppercase;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .footer-colm .quote span{
+        color: #9F65FC;
+        font-size: 12px;
+        font-weight: 900px;
+        text-transform: uppercase;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
     .footer-colm{
         width: 40%;
         padding: 0 15px;
@@ -228,6 +246,7 @@ header{
     .footer-col li{
         font-size: 15px;
         list-style: none;
+        text-decoration: none;
     }
 
     .footer-logo{
